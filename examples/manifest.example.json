@@ -1,0 +1,17 @@
+{
+  "skill": "ppt-layered-image-pack",
+  "version": "1.0.0",
+  "presentation": "大语言模型（LLM）介绍",
+  "aspect_ratio": "16:9",
+  "slides": [
+    {
+      "id": "S001",
+      "title": "大语言模型（LLM）概览",
+      "full": "S001_full.png",
+      "clean": "S001_clean.png",
+      "foreground": "S001_foreground.png",
+      "background": "S001_background.png",
+      "background_plus_foreground_equals_clean": "checked-by-validator"
+    }
+  ]
+}
